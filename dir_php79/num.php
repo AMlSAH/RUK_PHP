@@ -1,0 +1,3 @@
+<?php
+$res = $user['name'] ?? $user['surname'] ?? '';
+?>

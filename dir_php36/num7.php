@@ -1,4 +1,4 @@
 <?php
 $str = 'abc def';
-echo strlen($str) - 1; // Исправлен
+echo strlen($str) - 1;
 ?>
